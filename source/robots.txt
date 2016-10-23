@@ -1,0 +1,2 @@
+Sitemap: http://blog.snowwalkerj.cn/sitemap.xml
+Sitemap: http://blog.snowwalkerj.cn/baidusitemap.xml

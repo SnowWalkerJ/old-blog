@@ -72,3 +72,8 @@ deploy:
   repository: https://github.com/SnowWalkerJ/snowwalkerj.github.io.git
   branch: master
 
+# Sitemap
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
